@@ -17,6 +17,7 @@
 <img align="left" src="https://img.icons8.com/color/40/000000/python--v2.png"/>
 <img align="left" src="https://img.icons8.com/nolan/40/react-native.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/gatsbyjs.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/linux--v2.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/docker.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/git.png"/>
