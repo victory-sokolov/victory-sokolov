@@ -24,6 +24,21 @@
 <br />
 <br />
 
+## ✍️ Recent blog posts
+
+<!-- POST-START -->
+- [Introduction to Regular Expressions](https://viktorsokolov.com/blog/introduction-to-regular-expressions)
+- [SOLID Principles in Action: Real-World Examples Using Typescript](https://viktorsokolov.com/blog/solid-principles-in-action)
+- [How to implement  Dependency Injection in Python](https://viktorsokolov.com/blog/how-to-implement-dependency-injection-in-python)
+<!-- POST-END -->
+
+## 🔥 Recent tips
+
+<!-- TIP-START -->
+- [Delete all your node_modules, venv and vendor folders periodically](https://viktorsokolov.com/tip/delete-all-your-node_modules-venv-and-vendor-folders-periodically)
+- [Auto reload Celery on any code changes](https://viktorsokolov.com/tip/auto-reload-celery-on-any-code-changes)
+<!-- TIP-END -->
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victory-sokolov)](https://github.com/anuraghazra/github-readme-stats)
