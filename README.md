@@ -27,9 +27,9 @@
 ## ✍️ Recent blog posts
 
 <!-- POST-START -->
-- [Introduction to Regular Expressions](https://viktorsokolov.com/blog/introduction-to-regular-expressions)
-- [SOLID Principles in Action: Real-World Examples Using Typescript](https://viktorsokolov.com/blog/solid-principles-in-action)
-- [How to implement  Dependency Injection in Python](https://viktorsokolov.com/blog/how-to-implement-dependency-injection-in-python)
+- [Introduction to Regular Expressions](https://viktorsokolov.com/post/introduction-to-regular-expressions)
+- [SOLID Principles in Action: Real-World Examples Using Typescript](https://viktorsokolov.com/post/solid-principles-in-action)
+- [How to implement  Dependency Injection in Python](https://viktorsokolov.com/post/how-to-implement-dependency-injection-in-python)
 <!-- POST-END -->
 
 ## 🔥 Recent tips
